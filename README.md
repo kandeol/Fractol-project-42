@@ -89,8 +89,8 @@ Launch
 ./fractol [mandelbrot/julia/burning]
 ```
 
-* + : More iteration
-* - : Less iteration
+* /+ : More iteration
+* /- : Less iteration
 
 * For zoom , scrolling the mouse wheel,
 
