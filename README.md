@@ -73,7 +73,7 @@ This project involves creating a small fractal exploration software
 
 1. Clone the repo
 ```sh
-git clone https://github.com/kandeol/FDF-project-42
+git clone https://github.com/kandeol/Fractol-project-42
 ```
 2. Compile the executable
 ```sh
