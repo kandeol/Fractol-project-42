@@ -31,7 +31,7 @@
 <p align="center">
   <h1 align="center">Fractol</h1>
   <p align="center">
-    The basics of graphics programming !
+    Fractal exploration !
     <br />
   </p>
 </p>
@@ -92,7 +92,9 @@ Launch
 * numeric keypad more : More iteration
 * numeric keypad less : Less iteration
 
-* For zoom , scrolling the mouse wheel,
+* For zoom , scrolling the mouse wheel
+
+* 1-9 Change color 
 
 
 <!-- LICENSE -->
